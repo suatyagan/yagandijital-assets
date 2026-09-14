@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Yağan Dijital Sistemler">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#cfe7f8"/>
+      <stop offset="0.36" stop-color="#0b4cc9"/>
+      <stop offset="0.72" stop-color="#087df7"/>
+      <stop offset="1" stop-color="#2fe4e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#06111d"/>
+  <path d="M8 12h11l13 16 13-16h11L37 35v17H27V35z" fill="url(#g)"/>
+  <path d="M35 12h9c10 0 16 7 16 20s-6 20-16 20h-9V42h8c5 0 8-3 8-10s-3-10-8-10h-8z" fill="url(#g)"/>
+</svg>
