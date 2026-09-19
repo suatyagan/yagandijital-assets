@@ -1,11 +1,11 @@
-# Yağan Dijital Sistemler
+# Yağan İletişim Sistemleri
 
-Bu depo, yagandijital.com ana kurumsal sitesinin Vercel kaynağıdır.
+Bu branch, Yağan İletişim Sistemleri production sitesinin Vercel kaynağıdır.
 
+- Production branch: `yagan-iletisim-production`
 - Ana sayfa: `index.html`
 - Stil dosyası: `styles.css`
-- Ana logo: `YAGAN_DIJITAL_SISTEMLER_ANA_LOGO.png`
-- Favicon: `favicon.svg`
+- Etkileşimler: `main.js`
 - Vercel yapılandırması: `vercel.json`
 
-Canlı yayın akışı: GitHub `main` -> Vercel Production.
+Canlı yayın akışı: GitHub `yagan-iletisim-production` -> Vercel Production.
