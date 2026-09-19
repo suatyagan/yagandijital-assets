@@ -7,16 +7,7 @@
       "headers": [
         {
           "key": "Link",
-          "value": "<https://www.yagandijital.com/>; rel=\"canonical\""
-        }
-      ]
-    },
-    {
-      "source": "/demo-merkezi",
-      "headers": [
-        {
-          "key": "Link",
-          "value": "<https://www.yagandijital.com/demo-merkezi>; rel=\"canonical\""
+          "value": "<https://www.yaganiletisim.com/>; rel=\"canonical\""
         }
       ]
     }
