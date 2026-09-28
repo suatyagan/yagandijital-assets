@@ -1,6 +1,12 @@
 {
   "cleanUrls": true,
   "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/lansman/:slug",
+      "destination": "/lansman.html?launch=:slug"
+    }
+  ],
   "headers": [
     {
       "source": "/",
