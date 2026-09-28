@@ -1,0 +1,44 @@
+{
+  "brand": "Rutya Global",
+  "name": "Lansman Gecesi · 24 Eylül 2026",
+  "eyebrow": "RUTYA GLOBAL · LANSMAN GECESİ",
+  "title": "Yeni Bir Vizyon. Yeni Bir Dönüşüm.",
+  "subtitle": "Rutya Global’in global lojistik vizyonu; Rutya Academy ve Rutya Solutions ile aynı gecede buluşuyor.",
+  "completedMessage": "Lansman gecesi tamamlandı. Rutya Global, Rutya Academy ve Rutya Solutions hakkında bilgi ve iletişim için sayfadaki kanalları kullanabilirsiniz.",
+  "launchDate": "2026-09-24T19:00:00+03:00",
+  "cta": "LCV / Bilgi Al",
+  "status": "prelaunch",
+  "venuePartner": "Latife Etkinlik & Davet · Beyaz Köşk",
+  "technologyProvider": "Yağan Dijital",
+  "eventLocation": "Barbaros Mah. Mor Sümbül Sok. No: 2, Ataşehir · İstanbul",
+  "contactEmail": "rg@rutyaglobal.com",
+  "programNote": "Karşılama 19:00 · Program / Kokteyl 19:30",
+  "stageTitle": "Global Logistics · Multi-Modal Excellence",
+  "stageSubtitle": "Rutya Global · Academy · Solutions",
+  "storyKicker": "RUTYA GLOBAL · LANSMAN GECESİ",
+  "storyTitle": "Yeni bir vizyon, üç güçlü yapı.",
+  "storyText": "Global lojistik, eğitim ve teknoloji odaklı çözümler aynı dijital lansman deneyiminde bir araya geliyor.",
+  "contactText": "Rutya Global, Rutya Academy ve Rutya Solutions hakkında bilgi almak için e-posta üzerinden iletişime geçebilirsiniz.",
+  "modules": [
+    {
+      "code": "RG",
+      "title": "Rutya Global",
+      "text": "Çok modlu taşımacılık ve uluslararası lojistikte güven, hız ve gelecek odaklı yaklaşım."
+    },
+    {
+      "code": "RA",
+      "title": "Rutya Academy",
+      "text": "Sektörel gelişimi, insan kaynağını ve bilgi paylaşımını merkeze alan eğitim yapısı."
+    },
+    {
+      "code": "RS",
+      "title": "Rutya Solutions",
+      "text": "Operasyonları dijital çözümlerle daha ölçülebilir ve etkin hale getiren teknoloji yaklaşımı."
+    },
+    {
+      "code": "24",
+      "title": "24 Eylül · Lansman Programı",
+      "text": "Karşılama 19:00 · Program / Kokteyl 19:30 · Latife Etkinlik & Davet · Beyaz Köşk, Ataşehir."
+    }
+  ]
+}
