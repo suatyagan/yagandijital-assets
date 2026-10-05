@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "standard": "YAGAN-DIJITAL-GLOBAL-PROJE-STANDARDI-V1",
+  "project_name": "",
+  "project_type": "",
+  "customer_or_brand": "",
+  "status": "DEMO",
+  "appdeploy": {
+    "app_id": "",
+    "demo_url": ""
+  },
+  "github": {
+    "repository": "",
+    "default_branch": "main"
+  },
+  "supabase": {
+    "required": false,
+    "project_id": "",
+    "connection_status": "NOT_REQUIRED"
+  },
+  "vercel": {
+    "project_id": "",
+    "production_url": ""
+  },
+  "domain": {
+    "custom_domain": "",
+    "ssl_status": ""
+  },
+  "project_center": {
+    "record_id": "",
+    "tracking_enabled": true
+  },
+  "license": {
+    "enabled": false,
+    "package": "",
+    "duration_months": 0
+  },
+  "quota": {
+    "tracking_enabled": true,
+    "items": []
+  },
+  "integrations": {
+    "tokens_stored_as_secrets": true
+  }
+}
