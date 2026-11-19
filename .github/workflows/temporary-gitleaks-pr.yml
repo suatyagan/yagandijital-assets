@@ -1,6 +1,7 @@
 name: Temporary PR Gitleaks Gate
 on:
-  push:
+  pull_request:
+    types: [opened, synchronize, reopened]
 permissions:
   contents: read
 jobs:
